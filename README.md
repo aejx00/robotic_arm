@@ -22,7 +22,7 @@ sudo pip install adafruit-pca9685
 
 ## Deployment
 
-Run in terminal.
+Run python script in RPI terminal.
 
 ## Built With
 
@@ -35,7 +35,7 @@ Run in terminal.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
