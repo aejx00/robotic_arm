@@ -1,7 +1,7 @@
 # Robotic Arm
 
 Control a 6DOF robotic arm with a Raspberry Pi using a keyboard.
-http://www.ajohnsoncode.com/6-dof-robotic-arm/
+https://exceptionmishandler.com/robotic-arm/
 
 ## Getting Started
 
